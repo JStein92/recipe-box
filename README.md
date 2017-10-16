@@ -1,4 +1,4 @@
-# Discussion Forum
+# Recipe Box
 
 #### _A project to practice Two Way Binding in Angular2_
 
